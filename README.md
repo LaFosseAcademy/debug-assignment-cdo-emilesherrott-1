@@ -32,3 +32,6 @@ Visit the IP address or DNS using the port of `:3000`
 
 ## Bugs
 - No known bugs
+
+## Following usages
+- Remember to delete to resources used to create this application: from **/terraform**, run: `terraform destroy`
